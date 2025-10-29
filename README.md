@@ -1,4 +1,4 @@
-<img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/b2744fc8-2703-4078-878a-12f2af61e1fd" /># 🪙 ChainToss — Simple On-Chain Coin Flip
+# 🪙 ChainToss — Simple On-Chain Coin Flip
 
 
 ---
