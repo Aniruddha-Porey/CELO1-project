@@ -54,11 +54,10 @@ This project serves as an **educational example**, ideal for beginners learning:
 
 ## 🚀 Deployed Smart Contract
 
-**Network:** Sepolia Testnet
-**Contract Address:** `0x46e10eC1502680F772e4643eD671082f0c925Ae6`
+**Network:** Sepolia Testnet  
+**Contract Address:** [0x46e10eC1502680F772e4643eD671082f0c925Ae6](https://celo-sepolia.blockscout.com/address/0x46e10eC1502680F772e4643eD671082f0c925Ae6)  
 
 ![Contract Screenshot](https://github.com/user-attachments/assets/4cde8d52-ad50-431f-a499-5dbb2f5928b0)
-
 ---
 
 ## 🧠 Code
