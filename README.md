@@ -1,6 +1,15 @@
 # 🪙 ChainToss — Simple On-Chain Coin Flip
 
 ---
+ChainToss is a beginner-friendly on-chain coin flip game built in Solidity, where players bet 0.01 ETH to guess Heads or Tails and instantly win double if they’re right.
+
+## 🚀 Deployed Smart Contract
+
+**Network:** Sepolia Testnet  
+**Contract Address:** [0x46e10eC1502680F772e4643eD671082f0c925Ae6](https://celo-sepolia.blockscout.com/address/0x46e10eC1502680F772e4643eD671082f0c925Ae6)  
+
+![Contract Screenshot](https://github.com/user-attachments/assets/4cde8d52-ad50-431f-a499-5dbb2f5928b0)
+---
 
 ## 📖 Project Description
 
@@ -52,13 +61,6 @@ This project serves as an **educational example**, ideal for beginners learning:
 
 ---
 
-## 🚀 Deployed Smart Contract
-
-**Network:** Sepolia Testnet  
-**Contract Address:** [0x46e10eC1502680F772e4643eD671082f0c925Ae6](https://celo-sepolia.blockscout.com/address/0x46e10eC1502680F772e4643eD671082f0c925Ae6)  
-
-![Contract Screenshot](https://github.com/user-attachments/assets/4cde8d52-ad50-431f-a499-5dbb2f5928b0)
----
 
 ## 🧠 Code
 
