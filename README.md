@@ -1,6 +1,5 @@
 <img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/b2744fc8-2703-4078-878a-12f2af61e1fd" /># 🪙 ChainToss — Simple On-Chain Coin Flip
 
-*A beginner-friendly Ethereum smart contract for learning randomness, betting, and Solidity basics.*
 
 ---
 <img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/4cde8d52-ad50-431f-a499-5dbb2f5928b0" />
